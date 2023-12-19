@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/codema-dev/DREM-data-tools-report/tree/gh-pages"
 languageCode = "en-us"
 title = "Dublin Region Energy Master Plan - Data, Results & Tools"
 theme = "digital-garden-hugo-theme"
